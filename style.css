@@ -12,15 +12,10 @@ img {
     border-radius: 50%;
 }
 .footer {
-    background-color: #DC143C;
     text-align: center;
-    color: white;
     font-family: Georgia, 'Times New Roman', Times, serif
 }
-h1 {
-    background-color: #DC143C;
-    color: whitesmoke;
-}
+
 .about {
     text-align: center;
 }
